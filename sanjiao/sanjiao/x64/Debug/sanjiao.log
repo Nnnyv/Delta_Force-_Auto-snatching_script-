@@ -1,0 +1,5 @@
+﻿cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  源.cpp
+C:\Users\R\source\repos\sanjiao\sanjiao\源.cpp(122,6): warning C4551: 缺少参数列表的函数调用
+C:\Users\R\source\repos\sanjiao\sanjiao\源.cpp(198,6): warning C4551: 缺少参数列表的函数调用
+  sanjiao.vcxproj -> C:\Users\R\source\repos\sanjiao\x64\Debug\sanjiao.exe
