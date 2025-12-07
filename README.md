@@ -1,5 +1,5 @@
 #
-基于opencv与pythrch的cpp自动抢货脚本。模拟真人鼠标操作防止封号:)
+基于opencv与pythrch的三角洲行动自动抢补货价脚本。模拟真人鼠标操作防止封号:)
 
 opencv_try的是生成训练集的程序
 sanjiao是最终的的cpp抢货脚本
